@@ -1,0 +1,19 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "description": "eCommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PorubenkoEugene/eCommerce-app.git"
+  },
+  "author": "EugenePorubenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PorubenkoEugene/eCommerce-app/issues"
+  },
+  "homepage": "https://github.com/PorubenkoEugene/eCommerce-app#readme"
+}
